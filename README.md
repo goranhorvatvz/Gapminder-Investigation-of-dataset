@@ -30,7 +30,7 @@ Data are analyzed using Python in Jupyter Notebook and with use of libraries:
 * Numpy 
 * Matplotlib
 
-## Explorating Data Analasys
+## Exploratory Data Analysis
 Answers on quastions about data are investigated trought single-variable (1d) and multiple-variable (2d) explorations.
 The project includes relevant statistics and has visualizations of multiple comparisons and trends.  
 
